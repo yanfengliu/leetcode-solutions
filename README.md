@@ -13,5 +13,6 @@ This repo contains my solutions to certain leetcode problems, written in Python.
 
 ### Medium
 * [Add Two Numbers](https://github.com/yanfengliu/leetcode-solutions/blob/master/Medium/addTwoNumbers.py)
+* [Longest Substring without Repeating Characters](https://github.com/yanfengliu/leetcode-solutions/blob/master/Medium/lengthOfLongestSubstring.py)
 
 ### Hard
