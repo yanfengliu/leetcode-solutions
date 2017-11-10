@@ -1,6 +1,8 @@
 # leetcode-solutions
 
 This repo contains my solutions to certain leetcode problems, written in Python. It currently contains:
+
+### Easy
 * [Reverse String](https://github.com/yanfengliu/leetcode-solutions/blob/master/reverseString.py)
 * [Maximum Subarray](https://github.com/yanfengliu/leetcode-solutions/blob/master/maxSubArray.py)
 * [Fizz Buzz](https://github.com/yanfengliu/leetcode-solutions/blob/master/fizzBuzz.py)
