@@ -12,5 +12,6 @@ This repo contains my solutions to certain leetcode problems, written in Python.
 * [Array Partition I](https://github.com/yanfengliu/leetcode-solutions/blob/master/Easy/arrayPairSum.py)
 
 ### Medium
+* [Add Two Numbers](https://github.com/yanfengliu/leetcode-solutions/blob/master/Medium/addTwoNumbers.py)
 
 ### Hard
