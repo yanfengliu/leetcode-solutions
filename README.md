@@ -10,3 +10,7 @@ This repo contains my solutions to certain leetcode problems, written in Python.
 * [Reverse Words in a String III](https://github.com/yanfengliu/leetcode-solutions/blob/master/reverseWords.py)
 * [Keyboard Row](https://github.com/yanfengliu/leetcode-solutions/blob/master/findWords.py)
 * [Array Partition I](https://github.com/yanfengliu/leetcode-solutions/blob/master/arrayPairSum.py)
+
+### Medium
+
+### Hard
