@@ -16,3 +16,4 @@ This repo contains my solutions to certain leetcode problems, written in Python.
 * [Longest Substring without Repeating Characters](https://github.com/yanfengliu/leetcode-solutions/blob/master/Medium/lengthOfLongestSubstring.py)
 
 ### Hard
+* [Valid Number](https://github.com/yanfengliu/leetcode-solutions/tree/master/Hard/isNumber.py)
