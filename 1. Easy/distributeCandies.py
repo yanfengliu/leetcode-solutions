@@ -16,6 +16,8 @@
 # Explanation: For example, the sister has candies [2,3] and the brother has candies [1,1]. 
 # The sister has two different kinds of candies, the brother has only one kind of candies. 
 
+# https://leetcode.com/problems/distribute-candies/description/
+
 class Solution(object):
     def distributeCandies(self, candies):
         """
