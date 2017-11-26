@@ -7,6 +7,8 @@
 # "1 a" => false
 # "2e10" => true
 
+# https://leetcode.com/problems/valid-number/description/
+
 class Solution(object):
     def isNumber(self, s):
         """
