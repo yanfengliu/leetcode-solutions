@@ -5,6 +5,8 @@
 # Input: "Let's take LeetCode contest"
 # Output: "s'teL ekat edoCteeL tsetnoc"
 
+# https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+
 class Solution(object):
     def reverseWords(self, s):
         """
